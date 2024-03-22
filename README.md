@@ -17,7 +17,7 @@ The following setup is required:
 
 ### Task Overview
 
-- There are 5 main tasks.
+- There are 4 main tasks.
 - You will have one week to complete this assignment.
 - Feel free to complete as many tasks (or as little as one), quality is better than quantity.
 
